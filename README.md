@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Set plot style
-sns.set(style="whitegrid")
+sns.set(style="whitegrid"
 
 # Required columns
 required_columns = ['Date', 'Total Sales', 'Net Revenue', 'Product', 'Units', 'Region', 
